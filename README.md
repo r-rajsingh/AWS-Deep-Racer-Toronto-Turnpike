@@ -1,0 +1,2 @@
+# AWS-Deep-Racer-Toronto-Turnpike
+The Repo contains the code for the Reward Function and also the Video of the Trained Model. This competition was hosted by AMAZON WEB SERVICES on its cloud services. I had to use the AWS Services and write the "DEEP REINFORCEMENT LEARNING"  REWARD FUNCTION to train the AWS Deep Racer Model for racing on the track. My entire work is based of the AWS Deep Racer October Challenge.
